@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ilham</h1>
 <h3 align="center">
-AI Engineer • Generative AI • Agentic AI • RAG • LLMOps • NLP
+AI Engineer • AI/ML Researcher • Generative AI • Agentic AI • RAG • LLMOps • NLP • ML • DL
 </h3>
 
 <p align="center">
-Building production-grade AI systems powered by LLMs, autonomous agents, and scalable cloud infrastructure.
+Building production-grade AI systems powered by Large Language Models (LLMs), autonomous agents, and scalable cloud infrastructure while advancing AI research in Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), Machine Learning, and Deep Learning.
 </p>
 
 ---
@@ -35,20 +35,41 @@ Building production-grade AI systems powered by LLMs, autonomous agents, and sca
 
 ## 🛠 Tech Stack
 
-### Languages
+## 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,r,matlab,bash,powershell,html,css,sql" />
+</p>
 
-### AI / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
 
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+## 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0284C7?style=for-the-badge" />
+</p>
 
 ### AI Technologies
 
@@ -73,7 +94,7 @@ Building production-grade AI systems powered by LLMs, autonomous agents, and sca
 
 # 🌟 Featured Projects
 
-## 🤖 Production Agentic RAG Chatbot
+## 🤖 Fitzky Agentic RAG Chatbot
 
 - LangGraph Multi-Agent Architecture
 - Hybrid Query Routing
@@ -85,10 +106,10 @@ Building production-grade AI systems powered by LLMs, autonomous agents, and sca
 
 ---
 
-## 🚀 AI Lead Generation Platform
+## 🚀 Leadgen - AI Lead Generation Platform
 
 - Playwright Automation
-- LinkedIn & Indeed Scraping
+- LinkedIn, SEEK & EURES Scraping
 - LangChain
 - LLM Decision Engine
 - PostgreSQL
@@ -118,23 +139,11 @@ Building production-grade AI systems powered by LLMs, autonomous agents, and sca
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ilhamlafeer&theme=tokyonight"/>
 
 </p>
 
@@ -165,15 +174,15 @@ Building production-grade AI systems powered by LLMs, autonomous agents, and sca
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Ilhamlafeer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/ilhamlafeer">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:lafeerilham123@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
